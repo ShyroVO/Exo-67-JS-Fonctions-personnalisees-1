@@ -1,7 +1,7 @@
-function maFonction (id, texte) {
+function maFonction (id, text) {
 
     let paragraphe = document.getElementById(id);
-    paragraphe.innerText=texte;
+    paragraphe.innerText=text;
 
 }
 
