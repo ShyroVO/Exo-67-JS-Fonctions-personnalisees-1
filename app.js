@@ -3,6 +3,7 @@ function maFonction (id, text) {
     let paragraphe = document.getElementById(id);
     paragraphe.innerText=text;
 
+
 }
 
 maFonction("p1","Text a mettre en place!");
